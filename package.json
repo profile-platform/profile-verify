@@ -1,0 +1,12 @@
+{
+  "name": "profile-verify",
+  "version": "1.0.0",
+  "description": "Verify profile.yaml files",
+  "main": "index.js",
+  "repository": "https://github.com/profile-platform/profile-verify",
+  "author": "Jesse Sibley",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.11.0"
+  }
+}
